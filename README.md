@@ -1,1 +1,6 @@
-# Visualizing_Higher_dimensions
+# Visualizing Higher dimensions
+
+When asked to think of a line or a square or a cube everything seems fine till then but what if someone asks you to think of a 4D cube well if have seen Avengers Movie you would have seen a Tesseract which is a 4D cube but now what about if someone askes you to think of a 5D or even higher one the visualization part gets harder right. The vertices increases in the power of dimension so when dimension changes vertices go up by $2^d$, that is 2 for a line 4 for a square 8 for a cube,... but the number of faces goes in a non linear was like 1 for square 6 for cube, see how tiring it would be to count the faces of a tesseract it would be 24.
+
+Why go through all the trouble after all??? 
+Well in physics inorder to keep track of a particle we need to consider 6 dimensions(3 for coordinates 3 for momentum) but if we had to keep track of 100 particle dimensions for each of them and give 600dimensional phase space(coordinate and momentum space). For an image each pixel is put in a dimension so if we have 100000 pixels its 100000 dimensions. We cant think or process such a high dimension but understanding how the higher dimensions behave help us deduce things from them and minimise error.
